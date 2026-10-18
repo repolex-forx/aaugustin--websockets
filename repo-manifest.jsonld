@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/aaugustin/websockets/commit/bc17da4841b32dafdc036c0a35f7ccd2fc5d9b23",
       "git:hexsha": "bc17da4841b32dafdc036c0a35f7ccd2fc5d9b23",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/aaugustin/websockets/commit/1aa31d0545c877aea22d3b4452a4b92dbd631306",
